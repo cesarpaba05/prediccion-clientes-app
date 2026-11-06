@@ -1,0 +1,6 @@
+{
+  "name": "SegmentaStudio - Suite de Segmentación de Clientes",
+  "description": "Plataforma integral de análisis y segmentación de clientes con k-means, diagnóstico estadístico, validación de sesgos, métricas de codo, silueta y GAP, centroides en escala real y estrategias de negocio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
